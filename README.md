@@ -33,4 +33,5 @@ SO THAT I can reliably retrieve them for later use
 * THEN I should have proper build scripts for a webpack application
 
 ## Installation 
-To start this app, please clone the SH code and then in your terminal enter "npm start dev". 
+To start this app, please clone the code below and then in your terminal enter "npm start dev". 
+* https://github.com/brianthoang/Module_19_PWA.git
